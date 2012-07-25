@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/CACHE/maniac/HidaV/meta-texasinstruments/recipes-bsp/u-boot'
+let g:netrw_dirhist_2='/home/thilo/Documents/cv/__BASE__'
+let g:netrw_dirhist_3='/home/thilo/projects/www.thilo-fromm.de/public_html'
+let g:netrw_dirhist_4='/home/thilo/.vim'
