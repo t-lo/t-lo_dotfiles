@@ -6,9 +6,9 @@ set nowrap
 set ts=8
 
 "" soft-tabs set-up (python et al.) 
-"set ts=4
-"set et
-"set sw=4
+set ts=4
+set et
+set sw=4
 
 set nu
 set hlsearch
