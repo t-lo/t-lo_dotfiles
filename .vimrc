@@ -17,7 +17,7 @@ set autoindent
 set smartindent
 set cindent
 set cursorline
-colorscheme darkblue
+colorscheme zellner
 "set bg=light
 set bg=dark
 set textwidth=79
