@@ -10,6 +10,10 @@ set ts=4
 set et
 set sw=4
 
+
+"" Shift-Return is Escape, so VIM can be used on my Pixel C :)
+inoremap <S-CR> <Esc>
+
 set nu
 set hlsearch
 set incsearch
