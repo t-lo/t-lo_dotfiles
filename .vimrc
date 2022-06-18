@@ -21,9 +21,8 @@ set autoindent
 set smartindent
 set cindent
 set cursorline
-colorscheme zellner
-"set bg=light
 set bg=dark
+colorscheme elflord
 set textwidth=79
 set colorcolumn=+1
 
